@@ -1,0 +1,3 @@
+name: sdm-mac-probe
+version: "0.1.0"
+description: "Synthetic, no-access command to verify the Hermes hosting surface."
